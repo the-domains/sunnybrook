@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Sunnybrook]]></title>
+        <description><![CDATA[Sunnybrook]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 21 Mar 2016 19:00:17 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Our Mission: We're convinced we are meant to live for something more than ourselves. Lasting fulfillment comes from connecting to a purpose deeper and bigger than power, position or possessions. Jesus laid it out for his followers: glorify God by making disciples. 
+
+That's why we're here - that's our mission. And it's bigger than anything else we know. If that sounds about right to you, then this might be a great place to land.</p>]]></description>
+            <link>undefinedd7bc4fa1-af7f-4a48-821a-7dfb22b2bc4e/index.html</link>
+            <guid isPermaLink="false">d7bc4fa1-af7f-4a48-821a-7dfb22b2bc4e</guid>
+            <pubDate>Mon, 21 Mar 2016 18:59:28 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
