@@ -1,0 +1,28 @@
+name: Sunnybrook
+favicon: null
+layout_spectrum: 0.15067996107973158
+typography_spectrum: 0.6556821586564183
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.7745409749913961
+  lightness: 0.06684991833753884
+  saturation: 0.49615474813617766
+  rhythmicContrast: 0.41405259328894317
+purpose: []
